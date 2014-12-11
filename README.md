@@ -1,4 +1,4 @@
-BigData
+datasciencecoursera
 =======
 
-Repository for Big Data Certificate
+Repository for Coursera Data Science Certificate
